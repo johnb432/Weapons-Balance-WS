@@ -1,8 +1,8 @@
-# Changelog for Weapons balance 29.7.2020
+The "Weapons Balance" collection aims to rebalance other mods.
+This rebalancing effort includes:
+* Weight balancing for weapons, magazines and other equipment.
+* Adding compatibility for various mods such as TFAR, ACE and BettIR.
+* Adding magazine and weapon attachments compatibility.
+* Various fixes and additions.
 
-- Models/Icons/Names:
-    - WS
-        - Changed "mutlicam" opscore helmets to "multicam"
-        - Changed spacing on opscore helmets with brackets in names
-        - Fixed 6B27M Woodland ESS name
-        - Added an arsenal attribute to all gorka types (including krot and various others)
+Credit to all the various mod authors.
