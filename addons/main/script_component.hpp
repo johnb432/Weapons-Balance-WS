@@ -1,5 +1,5 @@
 #define COMPONENT main
-#include "\z\wb_ws\addons\main\script_mod.hpp"
+#include "script_mod.hpp"
 
 // #define DEBUG_MODE_FULL
 // #define DISABLE_COMPILE_CACHE
