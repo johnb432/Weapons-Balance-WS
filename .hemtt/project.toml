@@ -1,13 +1,15 @@
 name = "Weapons-Balance-WS"
 prefix = "wb_ws"
-author = "johnb43"
-template = "cba"
 mainprefix = "z"
-files = [
+
+[properties]
+author = "johnb43"
+url = "https://github.com/johnb432"
+
+[files]
+include = [
     "CHANGELOG.md",
     "mod.cpp",
     "LICENSE",
     "README.md"
 ]
-folder_optionals = false
-sig_version = 3

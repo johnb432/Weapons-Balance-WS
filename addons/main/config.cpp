@@ -12,7 +12,9 @@ class CfgPatches {
             "ws_russia"
         };
         author = "johnb43";
-        authors[] = {"johnb43"};
+        authors[] = {
+            "johnb43"
+        };
         url = "https://github.com/johnb432/Weapons-Balance-WS";
         VERSION_CONFIG;
     };
